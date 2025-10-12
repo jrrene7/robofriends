@@ -1,9 +1,9 @@
 {
-  "name": "robofriends-latest",
+  "name": "robofriends",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jrrene7.github.io/robofriends/",
+  "homepage": "https://jrrene7.github.io/robofriends",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
